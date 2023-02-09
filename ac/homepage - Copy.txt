@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="homepage.css">
+</head>
+
+<body>
+    <img src="https://www.linquip.com/blog/wp-content/uploads/2021/02/2-1024x682.jpeg" alt="" width="100%" height="700px" style="margin-top: 2%;">
+    <header>
+        <nav class="navbar">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="productpage.html">Product</a></li>
+                <li><a href="contactus.html">Contact us</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <div class="description">
+    <h1>Cool Zone Air Solutions.</h1>
+    <p>"We make sure your home stays cool and comfortable all summer long." </p>
+    <a href="./productpage.html"><button class="btn">Buy Product</button></a>
+    </div>
+
+    
+    <div class="rewards">
+        <h2>AWARDS</h2>
+        <pre>
+1. Innovator of the Year Award
+2. Top Customer Service Provider Award
+3. Most Efficient Air Conditioner Design Award
+4. Best Value Air Conditioner Award
+5. Best Energy Efficiency Air Conditioner Award
+6. Most Innovative Air Conditioner Award
+7. Best Air Conditioner Design Award
+8. Top Air Conditioner Manufacturer Award
+9. Most Reliable Air Conditioner Award
+10. Best Air Conditioner Brand Award
+        </pre>
+    </div>
+    <div class="rewards">
+        <h2>NEWS</h2>
+        <p>
+            1. Cool Zone Air Solutions Air Conditioner Company Announces New Line of Energy-Efficient Products: Cool Zone Air Solutions Air Conditioner Company announced a new line of energy-efficient air conditioning products. The new products are designed to save energy and reduce the carbon footprint of buildings by up to 25%.
+</p><p>
+            2. Cool Zone Air Solutions Air Conditioner Company Introduces Innovative Smart Home Technology: Cool Zone Air Solutions Air Conditioner Company announced the introduction of innovative smart home technology that allows homeowners to remotely control their air conditioning system from anywhere in the world.
+        </p><p>     
+            3. Cool Zone Air Solutions Air Conditioner Company Launches Energy Efficiency Awards Program: Cool Zone Air Solutions Air Conditioner Company launched an energy efficiency awards program that recognizes businesses and organizations for their efforts to reduce their carbon footprint. The awards will be given to those that have implemented energy-saving practices and technologies.
+        </p><p>
+            4. Cool Zone Air Solutions Air Conditioner Company Launches Online Store: Cool Zone Air Solutions Air Conditioner Company announced the launch of its online store, providing customers with convenient access to the company’s full range of air conditioning products. Customers can now purchase products directly from the website.
+        </p>
+    </div>
+
+		<footer class="footer-distributed">
+
+			<div class="footer-left">
+
+				<p class="footer-links">
+					<a class="link-1" href="homepage.html">Home</a>
+
+					<a href="about.html">About</a>
+
+					<a href="productpage.html">Products</a>
+
+					<a href="#">Email</a>
+
+					<a href="about.html">Address</a>
+
+					<a href="contactus.html">ContactUs</a>
+				</p>
+
+				<p>SR grinders &copy; 2018</p>
+			</div>
+
+		</footer>
+    </body>
+</html>
